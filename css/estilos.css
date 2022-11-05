@@ -194,12 +194,12 @@ header .menu-bar-movil .slideMenu .menu-principal a {
 }
 
 .main .portada .col .foto.izq {
-    background-image: url('../img/portada-1.jpg');
+    background-image: url('../img/anastase-maragos-FP7cfYPPUKM-unsplash.jpg');
     background-position: left
 }
 
 .main .portada .col .foto.der {
-    background-image: url('../img/portada-4.jpg');
+    background-image: url('../img/danielle-cerullo-CQfNt66ttZM-unsplash.jpg');
     opacity: 0.8
 }
 
@@ -254,12 +254,12 @@ header .menu-bar-movil .slideMenu .menu-principal a {
 }
 
 .main .portada .col .foto-full.izq {
-    background-image: url('../img/portada-2.jpg');
+    background-image: url('../img/hayley-kim-design-eot-ka5dM7Q-unsplash.jpg');
     opacity: 0.8
 }
 
 .main .portada .col .foto-full.der {
-    background-image: url('../img/portada-3.jpg');
+    background-image: url('../img/alexander-redl-d3bYmnZ0ank-unsplash.jpg');
     
 }
 
@@ -403,15 +403,15 @@ header .menu-bar-movil .slideMenu .menu-principal a {
 }
 
 .main .chef .container .col .slider .slide.foto1 {
-    background-image: url('../img/chef-1.jpg')
+    background-image: url('../img/sule-makaroglu-YFmvjO3TP_s-unsplash.jpg')
 }
 
 .main .chef .container .col .slider .slide.foto2 {
-    background-image: url('../img/chef-2.jpg')
+    background-image: url('../img/mor-shani-li4dxZ0KYRw-unsplash.jpg')
 }
 
 .main .chef .container .col .slider .slide.foto3 {
-    background-image: url('../img/chef-3.jpg')
+    background-image: url('../img/sporlab-XiZ7pRvCzro-unsplash.jpg')
 }
 
 .main .menu-platos {
@@ -525,7 +525,7 @@ header .menu-bar-movil .slideMenu .menu-principal a {
 .main .contacto .datos {
     padding: 5.625rem 0 11.875rem 0;
     position: relative;
-    background-image: url('../img/contacto-bg.jpg');
+    background-image: url('../img/debagni-sarkhel-0jIxHsotdac-unsplash.jpg');
     background-size: cover;
     background-position: center
 }
